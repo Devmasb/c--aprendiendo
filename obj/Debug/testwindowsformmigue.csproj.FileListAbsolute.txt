@@ -1,0 +1,10 @@
+C:\Users\Migue\source\repos\testwindowsformmigue\bin\Debug\testwindowsformmigue.exe.config
+C:\Users\Migue\source\repos\testwindowsformmigue\bin\Debug\testwindowsformmigue.exe
+C:\Users\Migue\source\repos\testwindowsformmigue\bin\Debug\testwindowsformmigue.pdb
+C:\Users\Migue\source\repos\testwindowsformmigue\obj\Debug\testwindowsformmigue.csprojAssemblyReference.cache
+C:\Users\Migue\source\repos\testwindowsformmigue\obj\Debug\testwindowsformmigue.Properties.Resources.resources
+C:\Users\Migue\source\repos\testwindowsformmigue\obj\Debug\testwindowsformmigue.csproj.GenerateResource.cache
+C:\Users\Migue\source\repos\testwindowsformmigue\obj\Debug\testwindowsformmigue.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\testwindowsformmigue\obj\Debug\testwindowsformmigue.exe
+C:\Users\Migue\source\repos\testwindowsformmigue\obj\Debug\testwindowsformmigue.pdb
+C:\Users\Migue\source\repos\testwindowsformmigue\obj\Debug\testwindowsformmigue.home.resources
